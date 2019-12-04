@@ -1,0 +1,15 @@
+[
+{
+  "modid": "aversion",
+  "name": "Aversion",
+  "description": "Make mobs ignore specific players.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jmilthedude"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
