@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.thedudemc.aversion.init.InitConfig;
 
-@Mod(modid = Aversion.MODID, name = Aversion.NAME, version = Aversion.VERSION, serverSideOnly = true)
+@Mod(modid = Aversion.MODID, name = Aversion.NAME, version = Aversion.VERSION, serverSideOnly = true, acceptableRemoteVersions = "*")
 public class Aversion {
 
 	@Mod.Instance
