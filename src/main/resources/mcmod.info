@@ -3,7 +3,7 @@
   "modid": "aversion",
   "name": "Aversion",
   "description": "Make mobs ignore specific players.",
-  "version": "1.0",
+  "version": "1.0.1",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",

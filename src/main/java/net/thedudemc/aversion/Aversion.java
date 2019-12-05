@@ -18,7 +18,7 @@ public class Aversion {
 
 	public static final String MODID = "aversion";
 	public static final String NAME = "Aversion";
-	public static final String VERSION = "1.0";
+	public static final String VERSION = "1.0.1";
 
 	private static Logger LOG = LogManager.getLogger(Aversion.NAME);
 
